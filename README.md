@@ -1,2 +1,1 @@
-# JavascriptSmallProyects
-Small proyects done during my js certification
+# Some JavaScript proyects done during the FreeCodeCamp js certification
